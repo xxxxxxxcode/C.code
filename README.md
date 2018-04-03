@@ -1,19 +1,16 @@
-## Welcome to GitHub Pages
+When you feel you want to code
 
-You can use the [editor on GitHub](https://github.com/xxxxxxxcode/C.code/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A fun view(https://codepen.io/C-code/pen/LeXWoM/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#About me</bold>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Proactive, creative, outgoing lady.
 ```markdown
-Syntax highlighted code block
+I love to:
 
-# Header 1
-## Header 2
-### Header 3
+# Pray
+## Eat
+### Code
 
 - Bulleted
 - List
@@ -21,7 +18,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Love** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
